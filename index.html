@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Showcase</title>
+  <link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Semua Produk Rekomendasi Yang Ada Di Shopee</h1>
+    <p>Produk Di Jamin Aman Harga Lebih Terjangkau dan Berkualitas</p>
+    <input type="text" id="search" placeholder="Cari produk..." />
+    <div id="category-filter">
+        <button data-category="all">Semua</button>
+        <button data-category="elektronik">Elektronik</button>
+        <button data-category="gadget">Gadget</button>
+        <button data-category="fashion_pria">Fashion Pria</button>
+        <button data-category="fashion_wanita">Fashion Wanita</button>
+        <button data-category="perlengkapan_kemah">Perlengkapan Kemah</button>
+      </div>
+      <button id="dark-mode-toggle">Dark Mode</button>
+
+      
+  </header>
+
+  <main id="product-list">
+    <!-- Produk akan dimasukkan lewat JavaScript -->
+  </main>
+  <div id="product-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <img id="modal-image" src="" alt="">
+      <h2 id="modal-title"></h2>
+      <p id="modal-desc"></p>
+      <a id="modal-link" href="" target="_blank">Beli Sekarang</a>
+    </div>
+  </div>
+  <div id="footer">
+      <p>copyright © 2025 | AmirStudio</p>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
