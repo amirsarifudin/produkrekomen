@@ -246,10 +246,14 @@ function displayProducts(data) {
         <p class="short-desc">${product.description.substring(0, 100)}...</p>
         <p class="full-desc" style="display: none;">${product.description}</p>
         <button class="toggle-desc">Lihat Selengkapnya</button>
-        <video width="100%" controls>
-          <source src="${product.video}" type="video/mp4">
-          Browser tidak mendukung video.
-        </video>
+       <div class="video-review" style="display: none;">
+      <video width="100%" controls>
+        <source src="${product.video}" type="video/mp4">
+        Browser tidak mendukung video.
+      </video>
+      </div>
+<button class="toggle-video">Lihat Video Review</button>
+
         <a href="${product.link}" target="_blank">Beli Sekarang</a>
       </div>
     `;
@@ -259,22 +263,38 @@ function displayProducts(data) {
   startSlideShow();
 }
 document.addEventListener('click', function (e) {
-  if (e.target.classList.contains('toggle-desc')) {
-    const info = e.target.closest('.info');
+  const toggleBtn = e.target.closest('.toggle-desc');
+  if (toggleBtn) {
+    const info = toggleBtn.closest('.info');
     const shortDesc = info.querySelector('.short-desc');
     const fullDesc = info.querySelector('.full-desc');
 
     if (fullDesc.style.display === 'none') {
       fullDesc.style.display = 'block';
       shortDesc.style.display = 'none';
-      e.target.textContent = 'Sembunyikan';
+      toggleBtn.textContent = 'Sembunyikan';
     } else {
       fullDesc.style.display = 'none';
       shortDesc.style.display = 'block';
-      e.target.textContent = 'Lihat Selengkapnya';
+      toggleBtn.textContent = 'Lihat Deskripsi';
     }
   }
 });
+
+document.addEventListener('click', function (e) {
+  if (e.target.classList.contains('toggle-video')) {
+    const videoContainer = e.target.previousElementSibling;
+
+    if (videoContainer.style.display === 'none') {
+      videoContainer.style.display = 'block';
+      e.target.textContent = 'Sembunyikan Video';
+    } else {
+      videoContainer.style.display = 'none';
+      e.target.textContent = 'Lihat Video Review';
+    }
+  }
+});
+
 
 
 function startSlideShow() {
