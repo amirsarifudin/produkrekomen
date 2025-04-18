@@ -221,6 +221,229 @@ const products = [
     link: "https://s.shopee.co.id/8pYQY5xIvp?share_channel_code=1",
     video: "assets/videos/kabeldata.mp4"
   },
+  {
+    name: "SPEEDS Meja Kurs Lipat Set Free Meja Lipat",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/kursilipat.jpeg"
+    ],
+    description: "Kursi Lipat Outdoor Indoor Tas Folding Table Chair Portable Meja Camping Piknik 031-36",
+    link: "https://s.shopee.co.id/7AQKSW1VbN?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "SPEEDS Kursi Lipat Camping Portabel Outdoor",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/kursilipatspeed.jpg"
+    ],
+    description: "+ Tas Pendingin Multifungsi LX 031-59",
+    link: "https://s.shopee.co.id/x9vOsjaf?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Rompi Outdoor Pria Dan Wanita",
+    category: ["perlengkapan_kemah" , "fashion_pria" , "fashion_wanita"],
+    images: [
+      "assets/images/rompi.jpg"
+    ],
+    description: "Terbaru/Rompi Vest Anti Air Dan Anti Angin Size M-Xx",
+    link: "https://s.shopee.co.id/2qHLIeTGJK?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "SPEEDS Kompor Camping Gas Alat Masak Alam",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/komporportable.jpg"
+    ],
+    description: "Mini Kompor Lipat Bunga Anti Angin WindProof Nesting Portable+TAS 003-6",
+    link: "https://s.shopee.co.id/706uGNFq9B?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "PALU MULTIFUNGSI/Palu Tang Lipat Multifunctional Axe",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/palu.jpg"
+    ],
+    description: "Hammer Survival Tools/alat multifungsi/palu multifungsi/palu tang lipat/tang lipat",
+    link: "https://s.shopee.co.id/7V3ArJw9Gz?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Lampu Lentera LED / Canping Lamp 3 COB",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/lampu.jpg"
+    ],
+    description: "Lampu Tenda Camping Tent LED Emergency ",
+    link: "https://s.shopee.co.id/BGa7rjNyK?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Tongkat Daki Gunung/ Tongkat Hiking",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/tongkat.jpg"
+    ],
+    description: "Trekking Pole/ Trekking Pole Tongkat Treking Gunung",
+    link: "https://s.shopee.co.id/9zkVq0FXyi?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Senter LED USB Isi Ulang Lampu",
+    category: "perlengkapan_kemah",
+    images: [
+      "assets/images/senter.jpg"
+    ],
+    description: "Lampu Portabel Mini Isi Ulang Lampu Saku Super Terang Rumah Tangga Kecil Pencahayaan Luar Ruangan Jarak Jauh",
+    link: "https://s.shopee.co.id/1g5NuiSWNI?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "ZAIN Hijab Soft Jilbab OVALIA SIZE M-L-XL",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/kerudungzain.jpg"
+    ],
+    description: "Oval Jumbo  Kerudung Bergo Jersey Korea High Quality Lembut Nyaman",
+    link: "https://s.shopee.co.id/qWGvEm52n?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Midi Dress Quenss Rayon Premium Jumbo",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/dressquin.jpg"
+    ],
+    description: "Ld 120 Busui by Tukuni",
+    link: "https://s.shopee.co.id/8zryeHKAau?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "HIJAB Jilbab Kerudung Pashmina Instan Oval Jersey",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/pashmina.jpg"
+    ],
+    description: "HIJAB Jilbab Kerudung Pashmina Instan Oval Jersey",
+    link: "https://s.shopee.co.id/4fizULIGAK?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "DelikaMode - Mukena Travel Mini Pouch 2in1 Katun Premium Motif",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/mukenatravel.jpg"
+    ],
+    description: "DelikaMode - Mukena Travel Mini Pouch 2in1 Katun Premium Motif",
+    link: "https://s.shopee.co.id/1g5NusKUhU?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Pashmina Kaos Jersey Hijab Jilbab Pasmina Premium  - Warna Lengkap",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/pashminajersey.jpg"
+    ],
+    description: "Pashmina Kaos Jersey Hijab Jilbab Pasmina Premium  - Warna Lengkap",
+    link: "https://s.shopee.co.id/1LSXWHpkEv?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Gr Oversized / Atasan Blouse Jumbo Ld 130 BabyTerry Premium Sr300",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/atasanblouse.jpg"
+    ],
+    description: "Gr Oversized / Atasan Blouse Jumbo Ld 130 BabyTerry Premium Sr300",
+    link: "https://s.shopee.co.id/9pR5dws7TJ?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "PASHMINA INSTAN 2IN 1 PASHMINA OVAL",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/pashminavira.jpg"
+    ],
+    description: "NINJA PASMINA VIRAPashmina Instan Fahira Inner Menutup Leher Sapndek JerseyL TERLARIS BEST SELLER HIJAB INSTAN JERSEY OVAL INNER TUTUP LEHER|| HIJAB PASHMINA INSTAN JERSEY OVAL PLUS INNER",
+    link: "https://s.shopee.co.id/7zzRSdWk0V?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Setelan Rok One Set Rok Tunik Syar’i Full Kancing",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/tuniksyari.jpg"
+    ],
+    description: "Setelan Rok One Set Rok Tunik Syar’i Full Kancing Set Rok Tunik Malaya Burgundy Set Pashmina Oval",
+    link: "https://s.shopee.co.id/9UoFFQZMkS?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "Mukena Calista Series | Mukena Travel Mini Parasut Premium Polos",
+    category: "fashion_wanita",
+    images: [
+      "assets/images/mukenacalista.jpg"
+    ],
+    description: "Mukena Travel Pouch Model 2in1 Resleting Dagu",
+    link: "https://s.shopee.co.id/4fizUZ8Cky?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "TNW W16 /W17 2 In 1 Wireless Microphone Clip On Mic Portable",
+    category: "gadget",
+    images: [
+      "assets/images/microphonewireles.jpg",
+      "assets/images/microphonewireles2.jpg"
+    ],
+    description: "Microphone Mikrofon Lavalier HP Untuk TikTok YouTube Facebook Live Streaming",
+    link: "https://s.shopee.co.id/7AQKTEf4LL?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "TNW L16 Tongsis Tripod Bluetooth Selfie Stick Remote",
+    category: "gadget",
+    images: [
+      "assets/images/tripod.jpg",
+      "assets/images/tripod2.jpg",
+      "assets/images/tripod3.jpg",
+      "assets/images/tripod4.jpg"
+    ],
+    description: "Tripod HP  Kamera DSLR Tongsis 1800MM dengan 1/4 Adaptor",
+    link: "https://s.shopee.co.id/2qHLJMxgAA?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: "MIXIO A31 MACARON EDITION Tongsis Bluetooth Selfie Stick Tripod 160CM",
+    category: "gadget",
+    images: [
+      "assets/images/tripodmixio.jpg",
+      "assets/images/tripodmixio2.jpg",
+      "assets/images/tripodmixio3.jpg",
+      "assets/images/tripodmixio4.jpg",
+      "assets/images/tripodmixio5.jpg",
+      "assets/images/tripodmixio6.jpg",
+      "assets/images/tripodmixio7.jpg",
+      "assets/images/tripodmixio8.jpg"
+    ],
+    description: "MIXIO A31 MACARON EDITION Tongsis Bluetooth Selfie Stick Tripod 160CM",
+    link: "https://s.shopee.co.id/5AfG5g1jFt?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
+  {
+    name: " GROTIC Tripod HP Kamera Tongsis Monopod Portable 153cm",
+    category: "gadget",
+    images: [
+      "assets/images/tripodgrotic.jpg",
+      "assets/images/tripodgrotic2.jpg",
+      "assets/images/tripodgrotic3.jpg"
+    ],
+    description: "GROTIC Tripod HP Kamera Tongsis Monopod Portable 153cm With Remote Bluetooth And Screw Mount 1/4 Q16",
+    link: "https://s.shopee.co.id/8pYYSRw6cK?share_channel_code=1",
+    video: "assets/videos/camera-demo.mp4"
+  },
 ];
 
 function displayProducts(data) {
