@@ -285,7 +285,11 @@ const products = [
     name: "Tongkat Daki Gunung/ Tongkat Hiking",
     category: "perlengkapan_kemah",
     images: [
+      "assets/images/tongkat.jpg",
+      "assets/images/tongkat.jpg",
+      "assets/images/tongkat.jpg",
       "assets/images/tongkat.jpg"
+
     ],
     description: "Trekking Pole/ Trekking Pole Tongkat Treking Gunung",
     link: "https://s.shopee.co.id/9zkVq0FXyi?share_channel_code=1",
